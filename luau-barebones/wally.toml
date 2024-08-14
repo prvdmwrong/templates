@@ -1,0 +1,9 @@
+[package]
+  name = "prvdmwrong/templates-luau-barebones"
+  private = true
+  version = "0.1.0"
+  registry = "https://github.com/UpliftGames/wally-index"
+  realm = "shared"
+
+[dependencies]
+  prvd = "prvdmwrong/core@0.2.0-dev.8"
