@@ -11,3 +11,15 @@ Wally.
   comprehensive Luau template](../luau-comprehensive).
 - For Roblox TypeScript templates, see [the barebones](../rbxts-barebones) and [the
   comprehensive](../rbxts-comprehensive) templates.
+
+## Prerequistes
+
+- [Rokit](https://github.com/rojo-rbx/rokit) for tooling
+
+## Usage
+
+Install all tooling required through Rokit:
+
+```Bash
+rokit install
+```

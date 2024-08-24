@@ -11,3 +11,20 @@ Rojo and Roblox TypeScript.
   [the comprehensive Roblox TypeScript template](../rbxts-comprehensive).
 - For Luau templates, see [the barebones](../luau-barebones) and [the
   comprehensive](../luau-comprehensive) templates.
+
+## Prerequistes
+
+- [NPM](https://www.npmjs.com/) or another Node package manager for packages and tooling
+
+## Usage
+
+Install all modules and tooling required through NPM:
+
+```Bash
+# NPM
+npm install
+# Yarn
+yarn install
+# PNPM
+pnpm install
+```
