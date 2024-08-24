@@ -1,5 +1,4 @@
 {
-  "generator": "dense",
   "process": [
     {
       "rule": "inject_global_value",

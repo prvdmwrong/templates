@@ -6,4 +6,4 @@
   realm = "shared"
 
 [dependencies]
-  prvd = "prvdmwrong/core@0.2.0-dev.8"
+  prvd = "prvdmwrong/core@0.2.0-dev.13"
