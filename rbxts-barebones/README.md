@@ -28,3 +28,5 @@ yarn install
 # PNPM
 pnpm install
 ```
+
+Run either the watch or build script inside the `package.json`.

@@ -23,3 +23,9 @@ Install all tooling required through Rokit:
 ```Bash
 rokit install
 ```
+
+Serve your project through Rojo:
+
+```Bash
+rojo serve
+```

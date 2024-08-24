@@ -17,6 +17,8 @@ is also bundled for ease of use.
 ## Prerequistes
 
 - [NPM](https://www.npmjs.com/) or another Node package manager for packages and tooling
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) for linting
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) for formatting
 
 ## Usage
 
@@ -30,3 +32,5 @@ yarn install
 # PNPM
 pnpm install
 ```
+
+Run either the watch or build script inside the `package.json`.

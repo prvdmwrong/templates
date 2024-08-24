@@ -17,6 +17,8 @@ is also bundled for ease of use.
 ## Prerequistes
 
 - [Rokit](https://github.com/rojo-rbx/rokit) for tooling
+- [Selene](https://marketplace.visualstudio.com/items?itemName=Kampfkarren.selene-vscode) for linting
+- [Stylua](https://marketplace.visualstudio.com/items?itemName=JohnnyMorganz.stylua) for formatting
 
 ## Usage
 
