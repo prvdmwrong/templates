@@ -4,7 +4,7 @@
     {
       "rule": "inject_global_value",
       "identifier": "__DEV__",
-      "env": false
+      "value": false
     },
     {
       "rule": "convert_require",

@@ -3,7 +3,7 @@
     {
       "rule": "inject_global_value",
       "identifier": "__DEV__",
-      "env": true
+      "value": true
     },
     {
       "rule": "convert_require",
